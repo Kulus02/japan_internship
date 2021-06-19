@@ -1,0 +1,47 @@
+
+.main{
+    margin-top: 65px;
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-image: url(../img/japan_mountain.jpg);
+}
+
+.volume{
+    height: 100%;
+    width: 95%;
+    margin-left: 50px;
+}
+
+.box{
+    float: left;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: #4444 5px 5px 5px 5px;
+    width: 30%;
+    height: auto;
+    padding: 20px;
+}
+
+.overlay{
+    margin-top: 315px;
+}
+
+.mro_text{
+    margin: 0;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.sub{
+    padding: 10px;
+    width: 200px;
+    margin-bottom: 5px;
+}
+.containerLogin{
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
